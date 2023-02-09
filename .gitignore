@@ -3,3 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform
 tcb-project-371706-4c5de465c0d5.json
+.terraform
