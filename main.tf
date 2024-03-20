@@ -1,5 +1,5 @@
 provider "google" {
-  project     = "	sandbox-data-eng-394320"
+  project     = "sandbox-data-eng-394320"
   #credentials = file("tcb-project-371706-b114ce01e529.json")
   #region      = "us-east1"
 
